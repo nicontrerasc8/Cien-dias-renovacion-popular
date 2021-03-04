@@ -44,13 +44,13 @@ const changeAsideValue = () => {
        {
            Aside ? <aside>
               <NavLinks style={{flexDirection:"column"}}>
-              <Link to="/" onClick={changeAsideValue}>
+              <Link to="/Cien-dias-renovacion-popular/" onClick={changeAsideValue}>
                Plan de 100 días
                </Link>
-              <Link to="/pensamiento-del-partido" onClick={changeAsideValue}>
+              <Link to="/Cien-dias-renovacion-popular/pensamiento-del-partido" onClick={changeAsideValue}>
                Pensamiento del partido
                </Link>
-               <Link to="/los-4-ejes-del-plan" onClick={changeAsideValue}>
+               <Link to="/Cien-dias-renovacion-popular/los-4-ejes-del-plan" onClick={changeAsideValue}>
                Los 4 ejes fundamentales
                </Link>
               </NavLinks>

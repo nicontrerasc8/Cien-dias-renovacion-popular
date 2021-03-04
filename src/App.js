@@ -19,17 +19,17 @@ function App() {
      <Router>
        <NavBarContainer/>
      <Switch>
-       <Route exact path='/'>
+       <Route exact path='/Cien-dias-renovacion-popular/'>
          <HomeContainer/>
        </Route>
-       <Route exact path="/pensamiento-del-partido">
+       <Route exact path="/Cien-dias-renovacion-popular/pensamiento-del-partido">
          <Thoughts/>
        </Route>
-       <Route exact path="/los-4-ejes-del-plan">
+       <Route exact path="/Cien-dias-renovacion-popular/los-4-ejes-del-plan">
          <FourAxis/>
        </Route>
        <Route>
-         <Redirect to="/"/>
+         <Redirect to="/Cien-dias-renovacion-popular/"/>
        </Route>
      </Switch>
      <Footer/>
