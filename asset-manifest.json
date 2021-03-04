@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Cien-dias-renovacion-popular/static/css/main.a2e88207.chunk.css",
-    "main.js": "/Cien-dias-renovacion-popular/static/js/main.68020174.chunk.js",
-    "main.js.map": "/Cien-dias-renovacion-popular/static/js/main.68020174.chunk.js.map",
+    "main.js": "/Cien-dias-renovacion-popular/static/js/main.446bdca7.chunk.js",
+    "main.js.map": "/Cien-dias-renovacion-popular/static/js/main.446bdca7.chunk.js.map",
     "runtime-main.js": "/Cien-dias-renovacion-popular/static/js/runtime-main.4d35156b.js",
     "runtime-main.js.map": "/Cien-dias-renovacion-popular/static/js/runtime-main.4d35156b.js.map",
     "static/js/2.3d1e3faf.chunk.js": "/Cien-dias-renovacion-popular/static/js/2.3d1e3faf.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4d35156b.js",
     "static/js/2.3d1e3faf.chunk.js",
     "static/css/main.a2e88207.chunk.css",
-    "static/js/main.68020174.chunk.js"
+    "static/js/main.446bdca7.chunk.js"
   ]
 }
