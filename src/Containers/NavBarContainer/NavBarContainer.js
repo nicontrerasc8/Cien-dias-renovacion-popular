@@ -36,8 +36,8 @@ const changeAsideValue = () => {
             <Link to="/"><Logo src={LogoImage}/></Link>
            {
                Matches ? <i className="fas fa-bars" onClick={changeAsideValue}></i> : <NavLinks>
-                   <Link to="/pensamiento-del-partido">Pensamiento del partido</Link>
-                   <Link to="/los-4-ejes-del-plan">Los 4 ejes fundamentales</Link>
+                   <Link to="/Cien-dias-renovacion-popular/pensamiento-del-partido">Pensamiento del partido</Link>
+                   <Link to="/Cien-dias-renovacion-popular/los-4-ejes-del-plan">Los 4 ejes fundamentales</Link>
                </NavLinks>
            }
         </nav>

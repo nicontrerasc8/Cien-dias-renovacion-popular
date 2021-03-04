@@ -28,7 +28,7 @@ function App() {
        <Route exact path="/Cien-dias-renovacion-popular/los-4-ejes-del-plan">
          <FourAxis/>
        </Route>
-       <Route>
+       <Route exact path="/">
          <Redirect to="/Cien-dias-renovacion-popular/"/>
        </Route>
      </Switch>
