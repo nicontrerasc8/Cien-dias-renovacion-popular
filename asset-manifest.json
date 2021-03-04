@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Cien-dias-renovacion-popular/static/css/main.a2e88207.chunk.css",
+    "main.js": "/Cien-dias-renovacion-popular/static/js/main.75a6c0ae.chunk.js",
+    "main.js.map": "/Cien-dias-renovacion-popular/static/js/main.75a6c0ae.chunk.js.map",
+    "runtime-main.js": "/Cien-dias-renovacion-popular/static/js/runtime-main.4d35156b.js",
+    "runtime-main.js.map": "/Cien-dias-renovacion-popular/static/js/runtime-main.4d35156b.js.map",
+    "static/js/2.3d1e3faf.chunk.js": "/Cien-dias-renovacion-popular/static/js/2.3d1e3faf.chunk.js",
+    "static/js/2.3d1e3faf.chunk.js.map": "/Cien-dias-renovacion-popular/static/js/2.3d1e3faf.chunk.js.map",
+    "static/js/3.4357b235.chunk.js": "/Cien-dias-renovacion-popular/static/js/3.4357b235.chunk.js",
+    "static/js/3.4357b235.chunk.js.map": "/Cien-dias-renovacion-popular/static/js/3.4357b235.chunk.js.map",
+    "index.html": "/Cien-dias-renovacion-popular/index.html",
+    "static/css/main.a2e88207.chunk.css.map": "/Cien-dias-renovacion-popular/static/css/main.a2e88207.chunk.css.map",
+    "static/js/2.3d1e3faf.chunk.js.LICENSE.txt": "/Cien-dias-renovacion-popular/static/js/2.3d1e3faf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d35156b.js",
+    "static/js/2.3d1e3faf.chunk.js",
+    "static/css/main.a2e88207.chunk.css",
+    "static/js/main.75a6c0ae.chunk.js"
+  ]
+}
